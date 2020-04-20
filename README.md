@@ -9,7 +9,7 @@ body {
   margin: 0;
 }
 
-/* Style the header */
+
 .header {
   background-color: #f1f1f1;
   padding: 20px;
