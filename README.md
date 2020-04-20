@@ -1,4 +1,18 @@
-## Welcome to GitHub Pages
+//## Welcome to GitHub Pages and all that stuff
+
+
+<h1>mgGlitch.js : a small jQuery helper for glitch</h1>
+
+<div class="container">
+   <!-- this elem will be glitch -->
+   <div class="glitch-img" style="background-image: url('http://hmongouachon.com/assets/img/demos/mosh1.jpg')"></div>
+</div>
+
+<p>Find this project on <a href="https://github.com/hmongouachon/mgGlitch" title="Github">Github</a></p>
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/Q420/mrnight/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -34,4 +48,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.//
+
+
