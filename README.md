@@ -1,6 +1,6 @@
 //## Welcome to GitHub Pages and all that stuff
 
-
+<div>
 <h1>mgGlitch.js : a small jQuery helper for glitch</h1>
 
 <div class="container">
@@ -9,7 +9,7 @@
 </div>
 
 <p>Find this project on <a href="https://github.com/hmongouachon/mgGlitch" title="Github">Github</a></p>
-
+</div>
 
 
 
